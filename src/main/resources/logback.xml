@@ -21,7 +21,7 @@
 		</encoder>
 	</appender>
 
-	<logger name="dev.file" level="DEBUG" additivity="false">
+<logger name="dev.console.AppService" level="DEBUG" additivity="false">
 		<appender-ref ref="FILE" />
 	</logger>
 	<logger name="dev.console" level="DEBUG">
