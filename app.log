@@ -1,0 +1,6 @@
+14:31:55.251 [main] INFO  dev.console -
+				Bonjour Slf4J !
+14:31:55.253 [main] INFO  dev.console -
+				Implementation Logback
+14:31:55.253 [main] DEBUG dev.file -
+				Traitement 1 : param = Message à caractère informatif
